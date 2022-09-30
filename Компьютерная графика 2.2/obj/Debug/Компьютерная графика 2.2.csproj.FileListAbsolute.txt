@@ -1,0 +1,10 @@
+C:\Users\DNS\source\repos\Компьютерная графика 2.2\Компьютерная графика 2.2\obj\Debug\Компьютерная_графика_2._2.Form1.resources
+C:\Users\DNS\source\repos\Компьютерная графика 2.2\Компьютерная графика 2.2\obj\Debug\Компьютерная_графика_2._2.Properties.Resources.resources
+C:\Users\DNS\source\repos\Компьютерная графика 2.2\Компьютерная графика 2.2\obj\Debug\Компьютерная графика 2.2.csproj.GenerateResource.cache
+C:\Users\DNS\source\repos\Компьютерная графика 2.2\Компьютерная графика 2.2\obj\Debug\Компьютерная графика 2.2.csproj.CoreCompileInputs.cache
+C:\Users\DNS\source\repos\Компьютерная графика 2.2\Компьютерная графика 2.2\bin\Debug\Компьютерная графика 2.2.exe.config
+C:\Users\DNS\source\repos\Компьютерная графика 2.2\Компьютерная графика 2.2\bin\Debug\Компьютерная графика 2.2.exe
+C:\Users\DNS\source\repos\Компьютерная графика 2.2\Компьютерная графика 2.2\bin\Debug\Компьютерная графика 2.2.pdb
+C:\Users\DNS\source\repos\Компьютерная графика 2.2\Компьютерная графика 2.2\obj\Debug\Компьютерная графика 2.2.csproj.AssemblyReference.cache
+C:\Users\DNS\source\repos\Компьютерная графика 2.2\Компьютерная графика 2.2\obj\Debug\Компьютерная графика 2.2.exe
+C:\Users\DNS\source\repos\Компьютерная графика 2.2\Компьютерная графика 2.2\obj\Debug\Компьютерная графика 2.2.pdb
